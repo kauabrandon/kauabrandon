@@ -4,25 +4,26 @@
 
 ### Information Systems Student and aspiring Software Engineer
 
-Profile views ![Profile Views](https://komarev.com/ghpvc/?username=kauabrandon&color=blue&style=flat-square)
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=kauabrandon&color=blue&style=flat" alt="Profile Views" />
+
+[![Follow](https://img.shields.io/github/followers/kauabrandon?label=Follow&style=social)](https://github.com/kauabrandon)
+
+<div align="center">
+
+- 🎓 Currently studying **Information Systems** at **Unifacisa University**, aiming to move into **Software Engineering**
+- 👨‍🏫 Currently a **teaching assistant for basic OOP** at the university, using the **Java** language
+- 🗣️ Languages: Portuguese and English
+- 📫 How to reach me: **kaua_brandon@hotmail.com**
 
 </div>
 
 ---
 
-- 🎓 Currently studying **Information Systems** at **Unifacisa University**, aiming to move into **Software Engineering**
-- 👨‍🏫 Currently a **teaching assistant for basic OOP at the university**, using the **Java** language
-- 🗣️ Languages: Portuguese and english
-- 📫 How to reach me: **kaua_brandon@hotmail.com**
+### 📌 About Me
 
----
-
-<table>
-<tr>
-<td width="150" valign="top">
-<img src="https://raw.githubusercontent.com/kauabrandon/kauabrandon/main/logo%20git.png" width="130" />
-</td>
-<td valign="top">
+<img align="right" src="https://raw.githubusercontent.com/kauabrandon/kauabrandon/main/logo%20git.png" width="300" />
 
 **Kauã**, hey there — I've been fascinated by the world of programming/computing since I was a kid.
 
@@ -32,11 +33,11 @@ I'm currently learning about **REST APIs, WEB DEVELOPMENT, DATABASES, and DOCKER
 
 My current goal is to start working in the field, and from there help solve problems for people who my work can be useful to, with good code, scalability, better performance, and so on.
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
+
+<div align="center">
 
 ### 🧠 Main Tech Stack
 
@@ -83,3 +84,5 @@ My current goal is to start working in the field, and from there help solve prob
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+</div>
