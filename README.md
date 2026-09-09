@@ -17,9 +17,9 @@
 
 ---
 
-<h3 align="center">📌 About Me</h3>
+<h3 align="center"> About Me</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/kauabrandon/kauabrandon/main/logo%20git.png" width="522" />
+<img align="right" src="https://raw.githubusercontent.com/kauabrandon/kauabrandon/main/logo%20git.png" width="400" />
 
 **Kauã**, hey there — I've been fascinated by the world of programming/computing since I was a kid.
 
@@ -35,7 +35,7 @@ My current goal is to start working in the field, and from there help solve prob
 
 <div align="center">
 
-### 🧠 Main Tech Stack
+### Main Tech Stacks
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -43,7 +43,7 @@ My current goal is to start working in the field, and from there help solve prob
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### 💻 Tech Stacks
+### Tech Stacks
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -64,7 +64,7 @@ My current goal is to start working in the field, and from there help solve prob
 
 ---
 
-### 🤝 Connect
+### Connect
 
 <p>
   <a href="https://github.com/kauabrandon" target="_blank">
