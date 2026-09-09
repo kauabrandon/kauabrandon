@@ -8,22 +8,18 @@
 
 <img src="https://komarev.com/ghpvc/?username=kauabrandon&color=blue&style=flat" alt="Profile Views" />
 
-[![Follow](https://img.shields.io/github/followers/kauabrandon?label=Follow&style=social)](https://github.com/kauabrandon)
-
-<div align="center">
+[![Follow](https://img.shields.io/badge/FOLLOW-%40kauabrandon-000000?style=flat-square)](https://github.com/kauabrandon)
 
 - 🎓 Currently studying **Information Systems** at **Unifacisa University**, aiming to move into **Software Engineering**
 - 👨‍🏫 Currently a **teaching assistant for basic OOP** at the university, using the **Java** language
 - 🗣️ Languages: Portuguese and English
 - 📫 How to reach me: **kaua_brandon@hotmail.com**
 
-</div>
-
 ---
 
-### 📌 About Me
+<h3 align="center">📌 About Me</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/kauabrandon/kauabrandon/main/logo%20git.png" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/kauabrandon/kauabrandon/main/logo%20git.png" width="522" />
 
 **Kauã**, hey there — I've been fascinated by the world of programming/computing since I was a kid.
 
