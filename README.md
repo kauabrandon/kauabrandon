@@ -19,6 +19,8 @@
 
 <h3 align="center"> About Me</h3>
 
+---
+
 <img align="right" src="https://raw.githubusercontent.com/kauabrandon/kauabrandon/main/logo%20git.png" width="400" />
 
 **Kauã**, hey there — I've been fascinated by the world of programming/computing since I was a kid.
