@@ -53,7 +53,8 @@ My current goal is to start working in the field, and from there help solve prob
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Comfy-000000?style=plastic" />
 </p>
 
 ---
